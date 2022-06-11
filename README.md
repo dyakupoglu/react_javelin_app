@@ -48,6 +48,6 @@ You need to install prerequisites before running the project. Please write the f
 
 ## License
 
-Licensed under the [MIT License](https://github.com/dyakupoglu/react_javelin_app.git/blob/main/LICENSE)
+Licensed under the [MIT License](https://github.com/dyakupoglu/react_javelin_app/blob/main/LICENSE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
